@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <h2>    Hi there! I'm Tuğba Korkut... </h2>
 
  <img align="right" alt="GIF" src="
-https://media1.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="500" height="320" />
+https://[media1.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif](https://media1.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=790b761177e3e2aa11b9b56c83300383745de4b2a4d3e89d&rid=giphy.gif&ct=g)" width="500" height="320" />
 
 
 
