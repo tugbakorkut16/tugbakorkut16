@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 
--  I’m currently aws & devops engineer ( Linux | Aws | Python | Sql )
+-  I’m currently AWS  / Cloud & DevOps Engineer | Python | SQL | HTML | CSS | Linux | Git | GitHub | Cloud(AWS) | Jenkins | Docker | Kubernetes | Jira | Slack | Ansible | Terraform | Scrum/Kanban | Creativity | Problem Solving | Teamwork )
 -  I am happy to teach you what I know and eager to learn what you will offer
 -  Slowly and steadily, I'm trying to be better than yesterday😉
 - 💬  Ask me about: Anything!
