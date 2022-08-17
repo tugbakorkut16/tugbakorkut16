@@ -32,11 +32,7 @@ Here are some ideas to get you started:
 - 💬  Ask me about: Anything!
 - 📫  How to reach me: 
 
-## :woman: Social
-
-
-
-
+## :woman: Social arslantobe@gmail.com
 
 ## ⚙ Tools
 
