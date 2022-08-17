@@ -42,7 +42,7 @@ https://www.linkedin.com/in/tugbakorkut
 <a href="https://kubernetes.io/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/19824574/41482054-47a3a702-70a2-11e8-9561-de51c5f71220.png" alt="" height="40" width="40" /></a>
 <a href="https://www.docker.com/" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="" height="40" width="40" /></a>
 <a href="https://www.terraform.io/" target="blank"><img align="center" src="https://www.datocms-assets.com/2885/1620155116-brandhcterraformverticalcolor.svg" alt="" height="40" width="40" /></a>
-<a href="https://www.terraform.io" target="blank"><img align="center" src="https://elabify.com/wp-content/uploads/2020/02/1200px-Jenkins_logo.svg.png" alt="" height="40" width="40" /></a>
+<a href="https://www.jenkins.io" target="blank"><img align="center" src="https://elabify.com/wp-content/uploads/2020/02/1200px-Jenkins_logo.svg.png" alt="" height="40" width="40" /></a>
 <!---
 **arslantobe/arslantobe** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
