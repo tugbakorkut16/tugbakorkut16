@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 https://www.linkedin.com/in/tugbakorkut
 
 ## ⚙ Tools
-<a href="[http://linkedin.com/in/tugbakorkut1](https://kubernetes.io/)" target="blank"><img align="center" src="[https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png](https://upload.wikimedia.org/wikipedia/labs/thumb/b/ba/Kubernetes-icon-color.svg/2110px-Kubernetes-icon-color.svg.png)" alt="" height="40" width="40" /></a>
+<a href="https://kubernetes.io/" target="blank"><img align="center" src="[https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png](https://upload.wikimedia.org/wikipedia/labs/thumb/b/ba/Kubernetes-icon-color.svg/2110px-Kubernetes-icon-color.svg.png)" alt="" height="40" width="40" /></a>
 <!---
 **arslantobe/arslantobe** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
