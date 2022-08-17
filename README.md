@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 💬  Ask me about: Anything!
 - 📫  How to reach me: 
 
-## :man::woman: Social
+## :woman: Social
 
 
 
