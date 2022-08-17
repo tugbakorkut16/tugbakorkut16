@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - 📫  How to reach me: 
 
 ## :woman: Social arslantobe@gmail.com
-                  https://www.linkedin.com/in/tugbakorkut
+https://www.linkedin.com/in/tugbakorkut
 
 ## ⚙ Tools
 
