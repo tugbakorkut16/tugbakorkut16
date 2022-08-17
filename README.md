@@ -31,9 +31,10 @@ Here are some ideas to get you started:
 -  Slowly and steadily, I'm trying to be better than yesterday😉
 - 💬  Ask me about: Anything!
 - 📫  How to reach me: 
+-  arslantobe@gmail.com
 
 ## :woman: Social 
-arslantobe@gmail.com
+
 
 https://www.linkedin.com/in/tugbakorkut
 
