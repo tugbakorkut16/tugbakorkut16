@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 
 ## :woman: Social 
 arslantobe@gmail.com
+
 https://www.linkedin.com/in/tugbakorkut
 
 ## ⚙ Tools
