@@ -40,7 +40,8 @@ https://www.linkedin.com/in/tugbakorkut
 
 ## ⚙ Tools
 <a href="https://kubernetes.io/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/19824574/41482054-47a3a702-70a2-11e8-9561-de51c5f71220.png" alt="" height="40" width="40" /></a>
-<a href="https://www.docker.com/" target="blank"><img align="center" src="https://camo.githubusercontent.com/18dbf5e90fa30d0bf483a6a9d25eba1bc957d4dced1b8cd7afbef29d573069de/68747470733a2f2f6c6f676f732d776f726c642e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f30322f446f636b65722d53796d626f6c2e706e67" alt="" height="40" width="40" /></a>
+<a href="https://www.docker.com/" target="blank"><img align="center" src="[https://camo.githubusercontent.com/18dbf5e90fa30d0bf483a6a9d25eba1bc957d4dced1b8cd7afbef29d573069de/68747470733a2f2f6c6f676f732d776f726c642e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f30322f446f636b65722d53796d626f6c2e706e6](https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_wordmark_logo_icon_146557.png)7" alt="" height="40" width="40" /></a>
+<a href="https://kubernetes.io" target="blank"><img align="center" src="[https://user-images.githubusercontent.com/19824574/41482054-47a3a702-70a2-11e8-9561-de51c5f71220.png](https://www.nicepng.com/png/detail/386-3869336_hashicorp-terraform-logo.png)" alt="" height="40" width="40" /></a>
 <!---
 **arslantobe/arslantobe** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
