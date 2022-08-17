@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 - 💬  Ask me about: Anything!
 - 📫  How to reach me: 
 
-## :woman: Social arslantobe@gmail.com
+## :woman: Social 
+arslantobe@gmail.com
 https://www.linkedin.com/in/tugbakorkut
 
 ## ⚙ Tools
