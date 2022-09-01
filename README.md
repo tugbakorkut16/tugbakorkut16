@@ -43,7 +43,7 @@ https://www.linkedin.com/in/tugbakorkut
 <a href="https://www.docker.com/" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="" height="40" width="40" /></a>
 <a href="https://www.terraform.io/" target="blank"><img align="center" src="https://www.datocms-assets.com/2885/1620155116-brandhcterraformverticalcolor.svg" alt="" height="40" width="40" /></a>
 <a href="https://www.jenkins.io" target="blank"><img align="center" src="https://elabify.com/wp-content/uploads/2020/02/1200px-Jenkins_logo.svg.png" alt="" height="40" width="40" /></a>
-<a href="https://www.ansible.com/"  target="blank"><img align="center" src="https://elabify.com/wp-content/uploads/2020/02/1200px-Jenkins_logo.svg.png" alt="" height="40" width="40" /></a>" alt="" height="40" width="40" /></a>
+<a href="https://www.ansible.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ansible_Logo.png?20150601231402" alt="" height="40" width="40" /></a>
 <!---
 **arslantobe/arslantobe** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
