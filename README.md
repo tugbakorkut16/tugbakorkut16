@@ -45,6 +45,7 @@ https://www.linkedin.com/in/tugbakorkut
 <a href="https://www.jenkins.io" target="blank"><img align="center" src="https://elabify.com/wp-content/uploads/2020/02/1200px-Jenkins_logo.svg.png" alt="" height="40" width="40" /></a>
 <a href="https://www.ansible.com/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/ansible_logo_icon_145495.png" alt="" height="40" width="40" /></a>
 <a href="https://maven.apache.org/" target="blank"><img align="center" src="https://miro.medium.com/max/900/1*kbSGIVukG6lL7JtAa9wiDA.png" alt="" height="40" width="40" /></a>
+<a href="https://www.atlassian.com/" target="blank"><img align="center" src="https://memoq-com.azureedge.net/wp-content/uploads/2020/01/Jira_logo_n.png" alt="" height="40" width="40" /></a>
 <!---
 **arslantobe/arslantobe** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
