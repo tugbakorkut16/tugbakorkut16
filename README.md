@@ -61,7 +61,7 @@ https://www.linkedin.com/in/tugbakorkut
 <a href="https://www.terraform.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="Terraform" height="48"/> </a>
 <a href="https://www.ansible.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" alt="Ansible" height="48"/> </a>
 <a href="https://www.jenkins.io/" target="blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="Jenkins" height="48" /></a>
-<a href="https://maven.apache.org/" target="blank"><img align="center" src="https://upload.vectorlogo.zone/logos/apache_maven/images/bf250be6-ab7f-4191-b421-8d0acb1dc6e4.svg" alt="" height="48"  /></a>
+<a href="https://maven.apache.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/maven.svg" alt="" height="48"  /></a>
 ## 📈 Statistics
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=arslantobe&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
