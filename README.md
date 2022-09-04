@@ -48,12 +48,11 @@ https://www.linkedin.com/in/tugbakorkut
 <a href="#" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" alt="github" height="48"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="gitlab" height="48"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vs-code" height="48"/> </a>
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="Jira"  height="48"/> </a>
+<a href="https://www.atlassian.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="Jira"  height="48"/> </a>
 <!-- <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html" height="48"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="css" height="48"/> </a> -->
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg" alt="Slack" height="48"/> </a> 
 </p>
-<a href="https://www.atlassian.com/" target="blank"><img align="center" src="https://memoq-com.azureedge.net/wp-content/uploads/2020/01/Jira_logo_n.png" alt="" height="48" width="40" /></a>
 
 ## ⚙ DevOps Tools
 
