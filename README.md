@@ -22,8 +22,9 @@ Here are some ideas to get you started:
 
 <h2>    Hi there! I'm Tuğba Korkut... </h2>
 
- <img align="right" alt="GIF" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="250" height="160" />
 
+ <img align="right" alt="GIF" src="https://media-exp1.licdn.com/dms/image/C5612AQF-EyLdpR_fLw/article-inline_image-shrink_1000_1488/0/1617187984361?e=1664409600&v=beta&t=ACLH7aEhBGoyYuhZvAxhOcyKsrJ4ThihNLA8KACWVGE" width="250" height="160" />
 
 
 -  I’m  AWS  / Cloud & DevOps Engineer | Python | SQL | HTML | CSS | Linux | Git | GitHub | Cloud(AWS) | Jenkins | Docker | Kubernetes | Jira | Slack | Ansible | Terraform | Scrum/Kanban | Creativity | Problem Solving | Teamwork )
