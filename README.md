@@ -37,15 +37,38 @@ Here are some ideas to get you started:
 
 <a href="http://linkedin.com/in/tugbakorkut" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt="" height="40" width="40" /></a>
 https://www.linkedin.com/in/tugbakorkut
+## 🚴 Skills
+<p>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width="70" height="48"/> </a> 
+<a href="#" target="_blank"> <img src="https://algoteque.com/wp-content/uploads/2019/04/1AwvDJDfErlD34ox2QpwGoA.png" alt="DevOps" width="100" height="48"/> </a> 
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="python"  height="48"/> </a> 
+<!-- <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java"  height="48"/> </a> -->
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="Linux"  height="48"/> </a> 
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git"  height="48"/> </a> 
+<a href="#" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" alt="github" height="48"/> </a>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="gitlab" height="48"/> </a>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vs-code" height="48"/> </a>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="Jira"  height="48"/> </a>
+<!-- <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html" height="48"/> </a>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="css" height="48"/> </a> -->
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg" alt="Slack" height="48"/> </a> 
+</p>
+<a href="https://www.atlassian.com/" target="blank"><img align="center" src="https://memoq-com.azureedge.net/wp-content/uploads/2020/01/Jira_logo_n.png" alt="" height="48" width="40" /></a>
 
-## ⚙ Tools
-<a href="https://kubernetes.io/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/19824574/41482054-47a3a702-70a2-11e8-9561-de51c5f71220.png" alt="" height="40" width="40" /></a>
-<a href="https://www.docker.com/" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="" height="40" width="40" /></a>
-<a href="https://www.terraform.io/" target="blank"><img align="center" src="https://www.datocms-assets.com/2885/1620155116-brandhcterraformverticalcolor.svg" alt="" height="40" width="40" /></a>
+## ⚙ DevOps Tools
+
+<a href="https://kubernetes.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" height="48"/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" height="48"/> </a>
+<a href="https://www.terraform.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="Terraform" height="48"/> </a>
 <a href="https://www.jenkins.io" target="blank"><img align="center" src="https://elabify.com/wp-content/uploads/2020/02/1200px-Jenkins_logo.svg.png" alt="" height="40" width="40" /></a>
-<a href="https://www.ansible.com/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/ansible_logo_icon_145495.png" alt="" height="40" width="40" /></a>
+<a href="https://www.ansible.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" alt="Ansible" height="48"/> </a>
 <a href="https://maven.apache.org/" target="blank"><img align="center" src="https://miro.medium.com/max/900/1*kbSGIVukG6lL7JtAa9wiDA.png" alt="" height="40" width="40" /></a>
-<a href="https://www.atlassian.com/" target="blank"><img align="center" src="https://memoq-com.azureedge.net/wp-content/uploads/2020/01/Jira_logo_n.png" alt="" height="40" width="40" /></a>
+
+## 📈 Statistics
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=oraykamberoglu&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=oraykamberoglu&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arslantobe&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 <!---
 **arslantobe/arslantobe** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
