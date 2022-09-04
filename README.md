@@ -60,14 +60,14 @@ https://www.linkedin.com/in/tugbakorkut
 <a href="https://kubernetes.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" height="48"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" height="48"/> </a>
 <a href="https://www.terraform.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="Terraform" height="48"/> </a>
-<a href="https://www.jenkins.io" target="blank"><img align="center" src="https://elabify.com/wp-content/uploads/2020/02/1200px-Jenkins_logo.svg.png" alt="" height="40" width="40" /></a>
+<a href="https://www.jenkins.io" target="blank"><img align="center" src="https://elabify.com/wp-content/uploads/2020/02/1200px-Jenkins_logo.svg.png" alt="" height="48" /></a>
 <a href="https://www.ansible.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" alt="Ansible" height="48"/> </a>
-<a href="https://maven.apache.org/" target="blank"><img align="center" src="https://miro.medium.com/max/900/1*kbSGIVukG6lL7JtAa9wiDA.png" alt="" height="40" width="40" /></a>
+<a href="https://maven.apache.org/" target="blank"><img align="center" src="https://miro.medium.com/max/900/1*kbSGIVukG6lL7JtAa9wiDA.png" alt="" height="48"  /></a>
 
 ## 📈 Statistics
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=oraykamberoglu&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=oraykamberoglu&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
+<img src="https://github-readme-stats.vercel.app/api?username=arslantobe&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arslantobe&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arslantobe&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 <!---
 **arslantobe/arslantobe** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
