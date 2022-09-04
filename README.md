@@ -59,7 +59,7 @@ https://www.linkedin.com/in/tugbakorkut
 <a href="https://kubernetes.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" height="48"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" height="48"/> </a>
 <a href="https://www.terraform.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="Terraform" height="48"/> </a>
-<a href="https://www.jenkins.io" target="blank">  src="https://iconscout.com/icons/jenkins" alt="Jenkins" height="48" /></a>
+<a href="https://www.jenkins.io" target="blank"> <img src="https://iconscout.com/icons/jenkins" alt="Jenkins" height="48" /></a>
 <a href="https://www.ansible.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" alt="Ansible" height="48"/> </a>
 <a href="https://maven.apache.org/" target="blank"><img align="center" src="https://miro.medium.com/max/900/1*kbSGIVukG6lL7JtAa9wiDA.png" alt="" height="48"  /></a>
 
