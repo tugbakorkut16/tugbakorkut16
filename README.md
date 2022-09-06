@@ -61,8 +61,8 @@ https://www.linkedin.com/in/tugbakorkut
 <a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" height="48"/> </a>
 <a href="https://www.terraform.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="Terraform" height="46"/> </a>
 <a href="https://www.ansible.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" alt="Ansible" height="48"/> </a>
-<a href="https://www.jenkins.io/" target="blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="Jenkins" height="46" /></a>
-<a href="https://maven.apache.org/" target="blank"><img src="https://miro.medium.com/max/1400/1*vBaeAw41XveYAWI7_mqGxg.jpeg" alt="" height="38"  /></a>
+<a href="https://www.jenkins.io/" target="blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="Jenkins" height="46" /> </a>
+<a href="https://maven.apache.org/" target="blank"> <img src="https://miro.medium.com/max/1400/1*vBaeAw41XveYAWI7_mqGxg.jpeg" alt="maven" height="38"  /> </a>
 ## 📈 Statistics
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=arslantobe&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
