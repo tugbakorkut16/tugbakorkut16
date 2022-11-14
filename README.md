@@ -53,6 +53,7 @@ https://www.linkedin.com/in/tugbakorkut
 <!-- <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html" height="48"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="css" height="48"/> </a> -->
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg" alt="Slack" height="48"/> </a> 
+<a href="#" target="_blank"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--GCCw-K3z--/c_imagga_scale,f_auto,fl_progressive,h_720,q_auto,w_1280/https://dev-to-uploads.s3.amazonaws.com/i/969hxuvi6nfw7zmydlj8.png" alt="Slack" height="48"/> </a>
 </p>
 
 ## ⚙ DevOps Tools
