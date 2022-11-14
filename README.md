@@ -53,7 +53,7 @@ https://www.linkedin.com/in/tugbakorkut
 <!-- <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html" height="48"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="css" height="48"/> </a> -->
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg" alt="Slack" height="48"/> </a> 
-<a href="#" target="_blank"> <img src="https://assets.perimeterx.com/image/upload/dpr_auto,f_auto,w_820/blog/2018/scaling-out-with-prometheus/prometheus_xjqlo1" alt="Slack" height="48"/> </a>
+<a href="#" target="_blank"> <img src="https://assets.perimeterx.com/image/upload/dpr_auto,f_auto,w_820/blog/2018/scaling-out-with-prometheus/prometheus_xjqlo1" alt="Slack" height="60"/> </a>
 </p>
 
 ## ⚙ DevOps Tools
