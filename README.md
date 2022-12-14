@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 -  Slowly and steadily, I'm trying to be better than yesterday😉
 - 💬  Ask me about: Anything!
 - 📫  How to reach me: 
--  arslantobe@gmail.com
+-  tugbakorkut16@gmail.com
 
 ## :woman: Social 
 
@@ -70,5 +70,5 @@ https://www.linkedin.com/in/tugbakorkut
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arslantobe&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arslantobe&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 <!---
-**arslantobe/arslantobe** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tugbakorkut16/tugbakorkut16** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
