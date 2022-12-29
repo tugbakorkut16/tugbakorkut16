@@ -47,13 +47,12 @@ https://www.linkedin.com/in/tugbakorkut
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="Linux"  height="48"/> </a> 
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git"  height="48"/> </a> 
 <a href="#" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" alt="github" height="48"/> </a>
-
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vs-code" height="48"/> </a>
 <a href="https://www.atlassian.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="Jira"  height="48"/> </a>
 <!-- <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html" height="48"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="css" height="48"/> </a> -->
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg" alt="Slack" height="48"/> </a> 
-<a href="#" target="_blank"> <img src="https://assets.perimeterx.com/image/upload/dpr_auto,f_auto,w_820/blog/2018/scaling-out-with-prometheus/prometheus_xjqlo1" alt="Slack" height="60"/> </a>
+
 </p>
 
 ## ⚙ DevOps Tools
@@ -65,6 +64,7 @@ https://www.linkedin.com/in/tugbakorkut
 <a href="https://www.jenkins.io/" target="blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="Jenkins" height="46" /> </a>
 <a href="https://gitlab.com/arslantobe" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="gitlab" height="48"/> </a>
 <a href="https://maven.apache.org/" target="blank"> <img src="https://miro.medium.com/max/1400/1*vBaeAw41XveYAWI7_mqGxg.jpeg" alt="maven" height="38"  /> </a>
+<a href="#" target="_blank"> <img src="https://assets.perimeterx.com/image/upload/dpr_auto,f_auto,w_820/blog/2018/scaling-out-with-prometheus/prometheus_xjqlo1" alt="Slack" height="60"/> </a>
 
 ## 📈 Statistics
 <p align="center">
