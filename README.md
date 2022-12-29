@@ -64,7 +64,7 @@ https://www.linkedin.com/in/tugbakorkut
 <a href="https://www.jenkins.io/" target="blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="Jenkins" height="46" /> </a>
 <a href="https://gitlab.com/arslantobe" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="gitlab" height="48"/> </a>
 <a href="https://maven.apache.org/" target="blank"> <img src="https://miro.medium.com/max/1400/1*vBaeAw41XveYAWI7_mqGxg.jpeg" alt="maven" height="38"  /> </a>
-<a href="#" target="blank"> <img src="https://miro.medium.com/max/640/1*R0ltLPWJRdzgGf5mzQgOwQ.webp" alt="grafana" height="48"  /> </a>
+<a href="#" target="blank"> <img src="https://miro.medium.com/max/640/1*R0ltLPWJRdzgGf5mzQgOwQ.webp" alt="grafana" height="52"  /> </a>
 
 ## 📈 Statistics
 <p align="center">
