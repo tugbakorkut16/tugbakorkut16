@@ -41,7 +41,7 @@ https://www.linkedin.com/in/tugbakorkut
 ## 🚴 Skills
 <p>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width="70" height="48"/> </a> 
-<a href="#" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsocradar.io%2Fwhat-are-devops-devsecops-and-rugged-devops%2F&psig=AOvVaw2LCh9O6lLuO_eAr-R2NmQm&ust=1681085602977000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOCLrYPCm_4CFQAAAAAdAAAAABAQ" alt="DevOps" width="100" height="48"/> </a> 
+<a href="#" target="_blank"> <img src="https://w7.pngwing.com/pngs/659/158/png-transparent-devops-business-process-software-development-process-implementation-business-text-people-logo.png" alt="DevOps" width="100" height="48"/> </a> 
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="python"  height="48"/> </a> 
 <!-- <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java"  height="48"/> </a> -->
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="Linux"  height="48"/> </a> 
