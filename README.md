@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <h2>I'm Tuğba Korkut... </h2>
 
- <img align="right" alt="GIF" src="https://creintech.in/assets/img/devops/gif/devops-services.gif" width="400" height="300" />
+ <img align="right" alt="GIF" src="[https://creintech.in/assets/img/devops/gif/devops-services.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcreintech.in%2Fdevops&psig=AOvVaw3piGPvCp3onasqz-ljalNu&ust=1681092333738000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKjG44zbm_4CFQAAAAAdAAAAABA6)" width="400" height="300" />
 
  
 
