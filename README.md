@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 
 
-<h2>    Hi there! I'm Tuğba Korkut... </h2>
+<h2>I'm Tuğba Korkut... </h2>
 
- <img align="right" alt="GIF" src="https://creintech.in/assets/img/devops/gif/devops-services.gif" width="250" height="160" />
+ <img align="right" alt="GIF" src="https://creintech.in/assets/img/devops/gif/devops-services.gif" width="400" height="300" />
 
  
 
