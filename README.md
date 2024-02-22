@@ -38,8 +38,9 @@ Here are some ideas to get you started:
 
 <a href="http://linkedin.com/in/tugbakorkut" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt="" height="40" width="40" /></a>
 https://www.linkedin.com/in/tugbakorkut
+
 <a href="https://www.credly.com/users/tugba-korkut.e42a0d50/badges" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png](https://images.credly.com/images/32d4008d-1fa0-4a79-8375-4857b0306dc5/blob.png" alt="" height="40" width="40" /></a>
-https://www.linkedin.com/in/tugbakorkut
+https://www.credly.com/users/tugba-korkut.e42a0d50/badges
 ## 🚴 Skills
 <p>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width="70" height="48"/> </a> 
