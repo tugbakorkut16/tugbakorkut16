@@ -40,7 +40,6 @@ Here are some ideas to get you started:
 https://www.linkedin.com/in/tugbakorkut
 
 <a href="https://www.credly.com/users/tugba-korkut.e42a0d50/badges" target="blank"><img align="center" src="https://images.credly.com/images/32d4008d-1fa0-4a79-8375-4857b0306dc5/blob.png" alt="" height="40" width="40" /></a>
-https://www.credly.com/users/tugba-korkut/badges
 ## 🚴 Skills
 <p>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width="70" height="48"/> </a> 
